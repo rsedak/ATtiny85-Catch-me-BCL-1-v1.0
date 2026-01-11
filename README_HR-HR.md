@@ -51,7 +51,7 @@ Popis komponenti
 
 Datoteke s dizajnom
 ------------
-Ovaj semafor je dizajniran pomoću programa [KiCad](https://www.kicad.org/). Datoteke se nalaze u mapi [design_files](design_files/). Elekroničku schemu možete pogledati [ovdje](images/attiny85_catch_me_bcl-1_schematic.png).
+Ovaj semafor je dizajniran pomoću programa [KiCad](https://www.kicad.org/). Datoteke se nalaze u mapi [design_files](design_files/). Elekroničku schemu možete pogledati [ovdje](images/attiny85_catch_me_bcl-1_schematic.pdf).
 
 
 Gerber datoteke
